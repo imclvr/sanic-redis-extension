@@ -8,7 +8,7 @@ from setuptools import setup
 _version_re = re.compile(r'__version__\s+=\s+(.*)')
 requirements = [
     'sanic-base-extension==0.2.0',
-    'redis==4.4.0',
+    'redis==4.5.1',
 ]
 
 
